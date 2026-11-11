@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Jacobo Martínez Martín</title>
+  <desc id="desc">Sistemas, redes y programación. Python, Java y C++.</desc>
+  <rect width="1200" height="250" rx="18" fill="#12232d"/>
+  <path d="M38 42v166" stroke="#56cfbf" stroke-width="5"/>
+  <text x="70" y="73" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#56cfbf">SISTEMAS, REDES Y PROGRAMACIÓN</text>
+  <text x="70" y="128" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="650" fill="#eff5f8">Jacobo Martínez Martín</text>
+  <text x="72" y="173" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#b5c7d1">Python · Java · C++ · Windows · Linux</text>
+  <g fill="none" stroke="#4c6977" stroke-width="2">
+    <path d="M940 65h140v52H940zM940 132h140v52H940zM1010 117v15M920 91h20M1080 158h26M1106 91v67h-26"/>
+    <path d="M963 91h58M963 158h58"/>
+  </g>
+  <g fill="#56cfbf"><circle cx="1058" cy="91" r="5"/><circle cx="1058" cy="158" r="5"/></g>
+</svg>
